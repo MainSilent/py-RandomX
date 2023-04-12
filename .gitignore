@@ -1,0 +1,13 @@
+__pycache__
+*.bin
+
+
+create_dataset/bin/
+create_dataset/obj/
+create_dataset/*.user
+create_dataset/*.suo
+create_dataset/.vs
+create_dataset/x64/
+create_dataset/Release/
+create_dataset/Debug/
+create_dataset/build/
